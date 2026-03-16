@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "Мой НЕ первый проект на Хекслете",
+  "homepage": "https://github.com/elenanepushkina/hexlet-js#readme",
+  "bugs": {
+    "url": "https://github.com/elenanepushkina/hexlet-js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elenanepushkina/hexlet-js.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
